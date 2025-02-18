@@ -1,0 +1,16 @@
+body {
+    font-family: 'Arial', sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f8f8f8;
+}
+
+.banner {
+    
+}
+
+.playlist-cards {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    padding: 30px;
+}

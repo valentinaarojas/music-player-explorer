@@ -14,17 +14,15 @@ body {
     display: grid;
     grid-template-columns: repeat(4, 1fr);
     padding: 30px;
-    border: 1px solid rgb(0, 0, 0);
 }
 
 .playlist-card {
-    padding: 20px;
-    margin: 30px 20px;
-    border-radius: 10px;
-    border: 1px solid #ccc;
+    padding: 40px;
+    margin: 30px 0;
+    background-color: grey;
 }
 
-.playlist-card .playlist-cover {
-    padding: 1px;
+. img {
+
 }
 
