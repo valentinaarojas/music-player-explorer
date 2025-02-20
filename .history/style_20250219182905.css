@@ -31,8 +31,8 @@ body {
     padding: 1px;
 }
 
-.modal-overlay {
-    /*display: none; /* Hidden by default */
+.modal{
+    display: none; /* Hidden by default */
     position: fixed; /* Stay in place */
     z-index: 1; /* Sit on top */
     left: 0;

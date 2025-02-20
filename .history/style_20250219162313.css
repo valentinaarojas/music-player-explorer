@@ -1,0 +1,33 @@
+body {
+    font-family: 'Arial', sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f8f8f8;
+}
+
+.banner {
+    background-color: grey;
+    padding: 1px;
+}
+
+.playlist-cards {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    padding: 30px;
+    border: 1px solid rgb(0, 0, 0);
+}
+
+.playlist-card {
+    padding: 20px;
+    margin: 30px 20px;
+    border-radius: 10px;
+    border: 1px solid #ccc;
+}
+
+.playlist-cover {
+    padding: 1px;
+}
+
+footer {
+
+}
